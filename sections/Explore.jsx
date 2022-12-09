@@ -9,7 +9,6 @@ import { ExploreCard, TitleText, TypingText } from '../components';
 
 import { exploreWorlds } from '../constants';
 
-
 const Explore = () => {
   const [active, setActive] = useState('world-2');
 
@@ -44,5 +43,7 @@ const Explore = () => {
     </section>
   );
 };
+
+
 
 export default Explore;
