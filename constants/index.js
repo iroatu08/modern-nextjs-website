@@ -70,21 +70,25 @@ export const insights = [
 
 export const socials = [
   {
+    id: 0,
     name: 'twitter',
     url: '/twitter.svg',
     link: 'https://twitter.com/',
   },
   {
+    id: 1,
     name: 'linkedin',
     url: '/linkedin.svg',
     link: 'https://www.linkedin.com/',
   },
   {
+    id: 2,
     name: 'instagram',
     url: '/instagram.svg',
-    link: 'https://www.instagram.com/',
+    link: 'https://www.instagram.com/', 
   },
   {
+    id: 3,
     name: 'facebook',
     url: '/facebook.svg',
     link: 'https://www.facebook.com/',
